@@ -21,7 +21,7 @@ keep editing it on the web canvas.
 ```
 
 Claude Code asks for your API key once and keeps it in your system's secure
-store. Generations are charged in voids at catalogue price.
+store. Generations are paid with your voids and keep your plan perks, just like on the web.
 
 ## What's inside
 
