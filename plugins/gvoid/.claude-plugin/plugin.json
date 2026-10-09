@@ -1,6 +1,5 @@
 {
   "name": "gvoid",
-  "displayName": "GVOID",
   "version": "1.0.0",
   "description": "Generate images, video, cinematic voices, music, sound effects and 3D models in your GVOID account, straight from Claude. Everything you create lands in your GVOID library.",
   "author": {
@@ -19,15 +18,5 @@
     "3d",
     "generative-ai",
     "mcp"
-  ],
-  "privacyPolicyUrl": "https://gvoidstudio.com/p/privacidad",
-  "termsOfServiceUrl": "https://gvoidstudio.com/p/terminos",
-  "userConfig": {
-    "gvoid_api_key": {
-      "type": "string",
-      "title": "GVOID API key",
-      "description": "Your key starting with gv_. Create it in GVOID → Profile → API & MCP → New key.",
-      "sensitive": true
-    }
-  }
+  ]
 }

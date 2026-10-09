@@ -11,7 +11,6 @@ keep editing it on the web canvas.
 ## What you need
 
 - A GVOID account: https://gvoidstudio.com
-- An API key: GVOID → Profile → **API & MCP** → **New key** (starts with `gv_`).
 
 ## Install (Claude Code)
 
@@ -20,12 +19,13 @@ keep editing it on the web canvas.
 /plugin install gvoid@gvoid
 ```
 
-Claude Code asks for your API key once and keeps it in your system's secure
-store. Generations are paid with your voids and keep your plan perks, just like on the web.
+The first time Claude uses GVOID it opens a GVOID page in your browser: sign in
+and press **Allow**. In Claude Code you can also start it with `/mcp`. You can
+disconnect it anytime in GVOID → Profile → **API & MCP**. Generations are paid with your voids and keep your plan perks, just like on the web.
 
 ## What's inside
 
-- **MCP server** `https://gvoidstudio.com/mcp` with the GVOID tools: balance,
+- **MCP server** `https://www.gvoidstudio.com/mcp` with the GVOID tools: balance,
   model catalogue with prices, image, video, voice, music, sound effects, 3D,
   character animation, run status, your assets and uploads.
 - **Skill** `gvoid-studio`: how to choose a model, check the price first, follow

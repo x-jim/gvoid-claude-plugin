@@ -2,10 +2,7 @@
   "mcpServers": {
     "gvoid": {
       "type": "http",
-      "url": "https://gvoidstudio.com/mcp",
-      "headers": {
-        "Authorization": "Bearer ${user_config.gvoid_api_key}"
-      }
+      "url": "https://www.gvoidstudio.com/mcp"
     }
   }
 }
