@@ -1,5 +1,6 @@
 {
   "name": "gvoid",
+  "displayName": "GVOID",
   "version": "1.0.0",
   "description": "Generate images, video, cinematic voices, music, sound effects and 3D models in your GVOID account, straight from Claude. Everything you create lands in your GVOID library.",
   "author": {
