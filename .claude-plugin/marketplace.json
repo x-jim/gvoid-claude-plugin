@@ -1,0 +1,17 @@
+{
+  "name": "gvoid",
+  "description": "GVOID for Claude: generate images, video, cinematic voices, music, sound effects and 3D from your GVOID account.",
+  "owner": {
+    "name": "GVOID",
+    "url": "https://gvoidstudio.com"
+  },
+  "plugins": [
+    {
+      "name": "gvoid",
+      "source": "./plugins/gvoid",
+      "description": "Generate images, video, cinematic voices, music, sound effects and 3D models in your GVOID account, straight from Claude.",
+      "category": "creative",
+      "tags": ["video", "image", "voice", "music", "3d", "generative-ai"]
+    }
+  ]
+}
